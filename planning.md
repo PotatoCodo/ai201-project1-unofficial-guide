@@ -10,6 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+The domain will be CS professors at George Mason University.  This knowledge is valuable because there are many profs within the department, and getting information about each of them (from students) is very time-consuming.  There are not many official channels that show what students think about them.
 
 ---
 
@@ -41,11 +42,13 @@
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
+200
 
 **Overlap:**
+50
 
 **Reasoning:**
-
+Most reviews are largely self-contained and do not have additional context that needs to be included.  Smaller chunk sizes give more precise retrieval and work better for more localized things.
 ---
 
 ## Retrieval Approach
@@ -57,10 +60,13 @@
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
+all-MiniLM-L6-v2 via sentence-transformers
 
 **Top-k:**
+4
 
 **Production tradeoff reflection:**
+I would use a stronger model that performs well on semantic search  and can understand informal language, such as phrases like "easy A," "heavy workload," or "great lecturer." Stronger embedding models are often better at capturing these meanings even when the user's query uses different wording than the review itself.  Of course, a stronger embedding model would also improve retrieval accuracy and better ability to understand language as well.
 
 ---
 
