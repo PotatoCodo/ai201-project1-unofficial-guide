@@ -29,8 +29,7 @@ def run_ingestion():
         print(f"Ingestion complete. {len(all_chunks)} chunks stored.")
     else:
         print(
-            "\n⚠️  No chunks produced. Make sure chunk_document() is implemented in ingest.py.\n"
-            "    RulesBot will start, but won't be able to answer questions yet.\n"
+            " No chunks produced. "
         )
 
 def chat(message):
