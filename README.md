@@ -9,6 +9,9 @@
 
 ## Domain
 
+The domain will be CS professors at George Mason University. This knowledge is valuable because there are many profs within the department, and getting information about each of them (from students) is very time-consuming. There are not many official channels that show what students think about them.
+
+
 <!-- What topic or category of knowledge does your system cover?
      Why is this knowledge valuable, and why is it hard to find through official channels?
      Example: "Student reviews of CS professors at [university] — useful because official
@@ -47,10 +50,14 @@
      - What your final chunk count was across all documents -->
 
 **Chunk size:**
+200
 
 **Overlap:**
+50
 
 **Why these choices fit your documents:**
+Most reviews are largely self-contained and do not have additional context that needs to be included. Smaller chunk sizes give more precise retrieval and work better for more localized things.  Larger chunk sizes add context window size unnecessarily.
+
 
 **Final chunk count:**
 
@@ -65,8 +72,10 @@
      latency, and local vs. API-hosted. -->
 
 **Model used:**
+all-MiniLM-L6-v2 via sentence-transformers
 
 **Production tradeoff reflection:**
+I would use a stronger model that performs well on semantic search and can understand informal language, such as phrases like "easy A," "heavy workload," or "great lecturer." Stronger embedding models are often better at capturing these meanings even when the user's query uses different wording than the review itself. Of course, a stronger embedding model would also improve retrieval accuracy and better ability to understand language as well.
 
 ---
 
