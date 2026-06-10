@@ -123,6 +123,7 @@ I would use a stronger model that performs well on semantic search  and can unde
 
 **Milestone 3 — Ingestion and chunking:**
 
+
 **Milestone 4 — Embedding and retrieval:**
 
 **Milestone 5 — Generation and interface:**
