@@ -18,4 +18,4 @@ CHROMA_COLLECTION = "unofficial"
 CHROMA_PATH = "./chroma_db"
 
 #Documents
-DOC_PATH = "./documents"
+DOCS_PATH = "./documents"
