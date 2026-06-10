@@ -36,7 +36,7 @@ def retrieve(query, n_results=N_RESULTS):
         include= ["documents", "metadatas", "distances"]
     )
 
-    documents = documents["documents"][0]
+    documents = results["documents"][0]
     metadatas = results["metadatas"][0]
     distances = results["distances"][0]
 
