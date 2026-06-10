@@ -23,8 +23,8 @@ The domain will be CS professors at George Mason University.  This knowledge is 
 |---|--------|-------------|-----------------|
 | 1 |masonpicks |shows statistics (median, mean, etc.) per prof |https://masonpicks.vercel.app/?subject=CS&level=300 |
 | 2 |Ratemyprofessor |review website for prof (reviewed by students) Socrates|https://www.ratemyprofessors.com/professor/2366288 |
-| 3 | | | |
-| 4 | | | |
+| 3 |ratemyprof(rmp) |russell |https://www.ratemyprofessors.com/professor/2038141 |
+| 4 |rmp |otten |https://www.ratemyprofessors.com/professor/1903402 |
 | 5 | | | |
 | 6 | | | |
 | 7 | | | |
