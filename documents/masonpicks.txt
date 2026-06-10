@@ -1,0 +1,780 @@
+CS 321
+Software Engineering
+
+Best section
+3.93
+Mean
+4.00
+Median
+more
+Gonzalez Hernandez Ana
+64 students
+CS 321
+Software Engineering
+
+10 sections
+3.92
+Mean
+4.00
+Median
+more
+Larson Maya
+53 students
+CS 321
+Software Engineering
+
+10 sections
+3.87
+Mean
+4.00
+Median
+more
+Creel Rita
+57 students
+CS 321
+Software Engineering
+
+10 sections
+3.86
+Mean
+4.00
+Median
+more
+Pettit Robert
+559 students
+CS 399
+SA: Soft Eng in Austria
+
+Best section
+3.80
+Mean
+4.00
+Median
+more
+Pettit Robert
+28 students
+CS 395
+Full Stack Web Development
+
+Best section
+3.75
+Mean
+4.00
+Median
+more
+Russell Katherine
+53 students
+CS 395
+Intro to the Internet of Thngs
+
+3 sections
+3.72
+Mean
+4.00
+Median
+more
+Soundararajan Shvetha
+29 students
+CS 325
+Introduction to Game Design
+
+Best section
+3.68
+Mean
+4.00
+Median
+more
+Gingold Yotam
+205 students
+CS 325
+Introduction to Game Design
+
+5 sections
+3.56
+Mean
+4.00
+Median
+more
+Huang Haikun
+63 students
+CS 321
+Software Engineering
+
+10 sections
+3.43
+Mean
+3.67
+Median
+more
+Islam Tariq
+91 students
+CS 321
+Software Engineering
+
+10 sections
+3.40
+Mean
+3.67
+Median
+more
+Masri Wassim
+601 students
+CS 325
+Introduction to Game Design
+
+5 sections
+3.40
+Mean
+4.00
+Median
+more
+Ye Jinwei
+42 students
+CS 325
+Introduction to Game Design
+
+5 sections
+3.39
+Mean
+4.00
+Median
+more
+Lien Jyh-Ming
+79 students
+CS 321
+Software Engineering
+
+10 sections
+3.38
+Mean
+3.67
+Median
+more
+Soundararajan Shvetha
+1387 students
+CS 306
+Synt Ethics/Law for Comp Profe
+
+Best section
+3.38
+Mean
+3.33
+Median
+more
+Geldon Fred
+369 students
+CS 390
+Research/Proj Design Principle
+
+Best section
+3.33
+Mean
+4.00
+Median
+more
+Russell Katherine
+9 students
+CS 351
+Visual Computing
+
+Best section
+3.33
+Mean
+3.67
+Median
+more
+Yu Lap Fai
+260 students
+CS 390
+Research/Proj Design Principle
+
+2 sections
+3.30
+Mean
+3.67
+Median
+more
+Wang Pearl
+21 students
+CS 321
+Software Engineering
+
+10 sections
+3.28
+Mean
+3.33
+Median
+more
+Ernst Steven Paul
+58 students
+CS 325
+Introduction to Game Design
+
+5 sections
+3.23
+Mean
+3.67
+Median
+more
+Kamberi Shahnaz
+41 students
+CS 399
+AI: Ethics, Policy & Society
+
+2 sections
+3.22
+Mean
+3.00
+Median
+more
+Monroe-White Thema
+9 students
+CS 306
+Synt Ethics/Law for Comp Profe
+
+6 sections
+3.17
+Mean
+3.33
+Median
+more
+Tompkins Michael
+167 students
+CS 330
+Formal Methods and Models
+
+Best section
+3.15
+Mean
+3.17
+Median
+more
+Wijesekera Duminda
+126 students
+CS 321
+Software Engineering
+
+10 sections
+3.10
+Mean
+3.00
+Median
+more
+Russell Katherine
+176 students
+CS 321
+Software Engineering
+
+10 sections
+3.10
+Mean
+3.00
+Median
+more
+Reep Michael
+211 students
+CS 306
+Synt Ethics/Law for Comp Profe
+
+6 sections
+3.06
+Mean
+3.00
+Median
+more
+Laufer Alexander
+33 students
+CS 306
+Synt Ethics/Law for Comp Profe
+
+6 sections
+3.05
+Mean
+3.00
+Median
+more
+Otten John
+517 students
+CS 332
+Obj-Oriented Sftwr Desgn/Imple
+
+3.01
+Mean
+3.00
+Median
+more
+Ammann Paul
+144 students
+CS 310
+Data Structures
+
+Best section
+2.99
+Mean
+3.67
+Median
+more
+Larson Maya
+108 students
+CS 306
+Synt Ethics/Law for Comp Profe
+
+6 sections
+2.99
+Mean
+3.00
+Median
+more
+Dean Ashley
+34 students
+CS 306
+Synt Ethics/Law for Comp Profe
+
+6 sections
+2.95
+Mean
+3.00
+Median
+more
+Maddox Tamara
+1591 students
+CS 367
+Computer Systems and Programm
+
+Best section
+2.94
+Mean
+3.00
+Median
+more
+Andrea Kevin
+1648 students
+CS 330
+Formal Methods and Models
+
+12 sections
+2.92
+Mean
+3.00
+Median
+more
+Avramovic Ivan
+1094 students
+CS 367
+Computer Systems and Programm
+
+11 sections
+2.89
+Mean
+3.00
+Median
+more
+Mughal Hamza
+301 students
+CS 395
+Binary Exploitation in Linux
+
+3 sections
+2.88
+Mean
+4.00
+Median
+more
+White Elizabeth
+17 students
+CS 367
+Computer Systems and Programm
+
+11 sections
+2.87
+Mean
+3.00
+Median
+more
+White Elizabeth
+274 students
+CS 367
+Computer Systems and Programm
+
+11 sections
+2.83
+Mean
+3.00
+Median
+more
+Snyder Mark
+134 students
+CS 367
+Computer Systems and Programm
+
+11 sections
+2.83
+Mean
+3.00
+Median
+more
+Rangwala Huzefa
+66 students
+CS 330
+Formal Methods and Models
+
+12 sections
+2.83
+Mean
+3.33
+Median
+more
+Brodsky Alexander
+67 students
+CS 330
+Formal Methods and Models
+
+12 sections
+2.83
+Mean
+3.00
+Median
+more
+Mani Priya
+147 students
+CS 367
+Computer Systems and Programm
+
+11 sections
+2.81
+Mean
+3.00
+Median
+more
+Han Bo
+89 students
+CS 367
+Computer Systems and Programm
+
+11 sections
+2.80
+Mean
+3.00
+Median
+more
+Zhong Yutao
+512 students
+CS 367
+Computer Systems and Programm
+
+11 sections
+2.73
+Mean
+3.00
+Median
+more
+Kim Song Min
+147 students
+CS 330
+Formal Methods and Models
+
+12 sections
+2.67
+Mean
+3.00
+Median
+more
+Domeniconi Carlotta
+477 students
+CS 330
+Formal Methods and Models
+
+12 sections
+2.67
+Mean
+3.00
+Median
+more
+Baldimtsi Foteini
+236 students
+CS 330
+Formal Methods and Models
+
+12 sections
+2.66
+Mean
+3.00
+Median
+more
+Ishimwe Didier
+44 students
+CS 330
+Formal Methods and Models
+
+12 sections
+2.64
+Mean
+3.00
+Median
+more
+Zaman Ahmed Bin
+517 students
+CS 330
+Formal Methods and Models
+
+12 sections
+2.62
+Mean
+2.67
+Median
+more
+Gordon Samuel
+310 students
+CS 310
+Data Structures
+
+16 sections
+2.59
+Mean
+3.00
+Median
+more
+Nordstrom David
+284 students
+CS 351
+Visual Computing
+
+3 sections
+2.59
+Mean
+2.67
+Median
+more
+Allbeck Jan
+72 students
+CS 310
+Data Structures
+
+16 sections
+2.54
+Mean
+3.00
+Median
+more
+Akhter Nasrin
+88 students
+CS 310
+Data Structures
+
+16 sections
+2.53
+Mean
+3.00
+Median
+more
+Shamseddine Maha
+320 students
+CS 367
+Computer Systems and Programm
+
+11 sections
+2.52
+Mean
+3.00
+Median
+more
+Avramovic Ivan
+570 students
+CS 310
+Data Structures
+
+16 sections
+2.48
+Mean
+3.00
+Median
+more
+Kauffman Christopher
+149 students
+CS 330
+Formal Methods and Models
+
+12 sections
+2.45
+Mean
+2.00
+Median
+more
+Richards Dana
+1300 students
+CS 310
+Data Structures
+
+16 sections
+2.44
+Mean
+2.33
+Median
+more
+Lien Jyh-Ming
+257 students
+CS 310
+Data Structures
+
+16 sections
+2.43
+Mean
+2.67
+Median
+more
+Krishnan Jitin
+132 students
+CS 310
+Data Structures
+
+16 sections
+2.41
+Mean
+3.00
+Median
+more
+Russell Katherine
+1645 students
+CS 310
+Data Structures
+
+16 sections
+2.39
+Mean
+3.00
+Median
+more
+Zhong Yutao
+1251 students
+CS 310
+Data Structures
+
+16 sections
+2.39
+Mean
+3.00
+Median
+more
+Alnifie Ghada
+63 students
+CS 310
+Data Structures
+
+16 sections
+2.33
+Mean
+2.67
+Median
+more
+Carver Richard
+48 students
+CS 310
+Data Structures
+
+16 sections
+2.30
+Mean
+2.67
+Median
+more
+Mengistu Tessema
+255 students
+CS 367
+Computer Systems and Programm
+
+11 sections
+2.29
+Mean
+2.33
+Median
+more
+Aydin Hakan
+164 students
+CS 310
+Data Structures
+
+16 sections
+2.27
+Mean
+2.67
+Median
+more
+Dimitriadis Socrates
+350 students
+CS 310
+Data Structures
+
+16 sections
+2.23
+Mean
+2.67
+Median
+more
+Destine Archange Giscard
+448 students
+CS 310
+Data Structures
+
+16 sections
+2.01
+Mean
+2.00
+Median
+more
+Masri Wassim
+164 students
+CS 351
+Visual Computing
+
+3 sections
+2.00
+Mean
+2.00
+Median
+more
+Lien Jyh-Ming
+1 students
+CS 330
+Formal Methods and Models
+
+12 sections
+2.00
+Mean
+2.17
+Median
+more
+Wang Na
+54 students
+CS 310
+Data Structures
+
+16 sections
+1.95
+Mean
+2.00
+Median
+more
+Otten John
+84 students
+CS 330
+Formal Methods and Models
+
+12 sections
+1.86
+Mean
+2.00
+Median
+more
+Evrendilek Cem
+66 students
+CS 367
+Computer Systems and Programm
+
+11 sections
+1.71
+Mean
+2.00
+Median
+more
+Kongmunvattana Angkul
+24 students
